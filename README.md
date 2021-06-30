@@ -96,4 +96,4 @@ svelte({
 
 ## Build 
 
-Run The App By Using `npm run dev` Than Change Some Styles Inside `App.svelte `
+Run The App By Using `npm run dev` Than Change Some Styles Inside `App.svelte`
